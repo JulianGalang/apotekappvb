@@ -1,0 +1,22 @@
+C:\Users\Julian\AppData\Local\Temporary Projects\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\Apotek.exe
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\Apotek.pdb
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\Apotek.xml
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\SipaaFramework.dll
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.vbproj.AssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.Form1.resources
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.Resources.resources
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.vbproj.GenerateResource.cache
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.vbproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.vbproj.CopyComplete
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.exe
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.xml
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.pdb
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.kelola_laporan.resources
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.kelola_obat.resources
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.kelola_user.resources
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.login.resources
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.resep.resources
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.transaksi.resources
